@@ -5,7 +5,7 @@ import {
   AiFillTwitterSquare,
   AiFillLinkedin,
 } from 'react-icons/ai'
-import { DiCssdeck } from 'react-icons/di'
+import { FcMindMap } from 'react-icons/fc'
 
 import {
   Container,
@@ -29,7 +29,7 @@ const Header = () => (
             marginBottom: '20px',
           }}
         >
-          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          <FcMindMap size="3rem" /> <Span>Paolo Urciullo</Span>
         </a>
       </Link>
     </Div1>
