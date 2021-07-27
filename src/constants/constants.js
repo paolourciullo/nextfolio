@@ -19,16 +19,16 @@ export const projects = [
     visit: 'https://github.com/paolourciullo/blog-overflow',
     id: 1,
   },
-  // {
-  //   title: 'WebRTC App',
-  //   description:
-  //     "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-  //   image: '/images/3.jpg',
-  //   tags: ['React', 'WebRTC'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 2,
-  // },
+  {
+    title: 'WhenRUfree',
+    description:
+      'This Frontend was submitted as part of a hackathon. I was the developer role in this Agile project.  We had weekly stand-ups, discussions centered on scope, and a fully realized model of our MVP.  I learned many new things, most important being I thrive on a team!',
+    image: '/images/whenfree.png',
+    tags: ['JavaScript', 'Bootstrap', 'Agile'],
+    source: 'https://chingu-voyages.github.io/WhenRUfree/',
+    visit: 'https://github.com/paolourciullo/nextfolio',
+    id: 2,
+  },
   // {
   //   title: 'Unichat',
   //   description:

@@ -24,16 +24,16 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:111-111-1111">111-111-1111</LinkItem>
+          <LinkItem href="tel:860-410-6580">860/410.6580</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:a@b.com">email</LinkItem>
+          <LinkItem href="mailto:paolourciullo@gmail.com">Email Me</LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Solving complex problems at scale</Slogan>
+          <Slogan>Solving complex problems at scale.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/paolourciullo">
