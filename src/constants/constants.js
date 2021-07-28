@@ -29,16 +29,16 @@ export const projects = [
     visit: 'https://github.com/paolourciullo/nextfolio',
     id: 2,
   },
-  // {
-  //   title: 'Unichat',
-  //   description:
-  //     'This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application',
-  //   image: '/images/4.jpg',
-  //   tags: ['React', 'ChatEngine', 'Firebase'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 3,
-  // },
+  {
+    title: 'This Profiler',
+    description:
+      'This is a javascript module that uses the github API to fetch data on public github accounts. Users of the module can see the accounts latest repos as well as info on followers and their user photo. ',
+    image: '/images/ghprofile.png',
+    tags: ['Bootstrap', 'GithubAPI', 'JavaScript'],
+    source: 'https://paolourciullo.github.io/thisProfiler/',
+    visit: 'https://github.com/paolourciullo/thisProfiler',
+    id: 3,
+  },
 ]
 
 export const TimeLineData = [
